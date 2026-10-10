@@ -114,15 +114,12 @@ The codebase is organized to separate concerns and maintain scalability.
 ├── tailwind.config.ts      # Tailwind CSS configuration
 └── tsconfig.json           # TypeScript configuration
 ```
-
 ---
-
 ## 🤖 AI Integration with Genkit
 
 This project uses **Genkit** to integrate with the Google Gemini family of models. The primary AI feature is:
 
 - **`analyzeApplicantAndRecommendProject`**: Located in `src/ai/flows/analyze-applicant-and-recommend-project.ts`, this flow takes a new member's application data (skills, interests, etc.) and returns a reasoned recommendation for a project group that best fits their profile. This provides immediate, personalized feedback to new applicants.
-
 ---
 
 ## 📄 License
