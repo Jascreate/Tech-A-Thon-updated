@@ -73,22 +73,16 @@
       "imageHint": "teacher smiling"
     },
     {
-      "id": "aditi",
+      "id": "hiten",
       "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/ADITI%20TRIPATHI.jpg",
-      "imageHint": "woman portrait"
-    },
-    {
-      "id": "saksham",
-      "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/SAKSHAM%20RAJ.jpg",
+      "imageUrl": "/images/hiten.jpg",
       "imageHint": "man portrait"
     },
     {
-      "id": "shristi",
+      "id": "harsh",
       "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/shrishti.png",
-      "imageHint": "woman portrait"
+      "imageUrl": "/images/harsh.jpg",
+      "imageHint": "man portrait"
     },
     {
       "id": "anushka",
@@ -97,34 +91,40 @@
       "imageHint": "woman portrait"
     },
     {
-      "id": "sourav",
+      "id": "kushi",
       "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/sourav.jpg",
-      "imageHint": "man portrait"
-    },
-    {
-      "id": "divyansh",
-      "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/dj%20-%20Divyansh%20Joshi.jpg",
-      "imageHint": "man portrait"
-    },
-    {
-      "id": "ananya",
-      "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/Ananya%20Mishra.png",
+      "imageUrl": "/images/kushi.jpg",
       "imageHint": "woman portrait"
     },
     {
-      "id": "ashish",
+      "id": "chirag",
       "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/Ashish%20Sharma.JPG",
+      "imageUrl": "/images/chirag.jpg",
       "imageHint": "man portrait"
     },
     {
-      "id": "janvi",
+      "id": "suyash",
       "description": "Portrait of a core team member",
-      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/Janvi.jpg",
-      "imageHint": "woman portrait"
+      "imageUrl": "/images/suyash.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "nitish",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/nitish.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "ayush",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/ayush.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "jay",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/jay.png",
+      "imageHint": "man portrait"
     },
     {
       "id": "gallery-1",

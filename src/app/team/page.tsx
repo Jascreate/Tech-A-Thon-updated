@@ -18,7 +18,7 @@ const TeamCard = ({ member }: { member: TeamMember }) => {
   return (
     <Card className="group overflow-hidden">
       <CardHeader className="p-0">
-        <div className="relative h-64 w-full">
+        <div className="relative h-64 w-full overflow-hidden">
           {memberImage && (
             <Image
               src={memberImage.imageUrl}
