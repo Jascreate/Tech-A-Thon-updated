@@ -147,8 +147,8 @@ export const team: TeamMember[] = [
     position: "Non-Techical Head",
     bio: "As Non-Technical Head, he oversees operations, coordinates teams, and ensures smooth execution of events through strong organizational and leadership skills.",
     image: "suyash",
-    email: "",
-    linkedin: "",
+    email: "gsuyash925@gmail.com",
+    linkedin: "https://www.linkedin.com/in/suyash-gupta-635b86387",
   },
   {
     name: "Nitish kumar",
@@ -156,8 +156,8 @@ export const team: TeamMember[] = [
     position: "Sponsorship Head",
     bio: "Introducing Nitish, our Sponsorship Head — confident, responsible, and focused on building strong partnerships and securing valuable opportunities for the society.",
     image: "nitish",
-    email: "",
-    linkedin: "",
+    email: "nitishkumar735430@gmail.com",
+    linkedin: "https://www.linkedin.com/in/nitish-kumar-779229384",
   },
   {
     name: "Ayush Azad",
@@ -165,8 +165,8 @@ export const team: TeamMember[] = [
     position: "Technical Head",
     bio: "He leads the society’s tech operations, ensures smooth events, and builds practical projects that strengthen Tech-A-Thon’s workflow.",
     image: "ayush",
-    email: "",
-    linkedin: "",
+    email: "ayushazadten@gmail.com",
+    linkedin: "https://www.linkedin.com/in/ayush-azad-3b4a53385",
   },
   {
     name: "Jay ",
@@ -174,7 +174,7 @@ export const team: TeamMember[] = [
     position: "Coordinator Head",
     bio: "As Coordinator Head of Tech-A-Thon, he oversees team coordination, manages technical initiatives, and ensures the smooth execution of innovative projects through effective collaboration and leadership.",
     image: "jay",
-    email: "=mr.dabasjay@gmail.com",
+    email: "mr.dabasjay@gmail.com",
     linkedin: "https://www.linkedin.com/in/jay-dabas-84860340b/",
   },
 ];
