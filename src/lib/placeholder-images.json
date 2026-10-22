@@ -1,0 +1,262 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract cybernetic background",
+      "imageUrl": "https://svitla.com/wp-content/uploads/2024/07/3084-computer_vision_main.jpg",
+      "imageHint": "cyber circuit"
+    },
+    {
+      "id": "cdac main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/CDAC%20visit'25/main.jpg",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "poster main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/Poster%20MAking%20Competition/main.jpg",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "drone main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/AI%20driven%20drone/main.jpg",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "ar main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/AI%20x%20AR%20workshop/main.jpg",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "ml main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/ml%20workshop/ml%20d1.jpg",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "data main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/data%20science/main.jpg",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "fact main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/FactShala%20A%20media%20and%20information%20literacy/main.jpg",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "research main",
+      "description": "A creative tech-themed poster design",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/Iot/iot%20main.JPG",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "dharmendra",
+      "description": "Portrait of a faculty coordinator",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/faculty/dharmendra%20sir.jpeg",
+      "imageHint": "professor portrait"
+    },
+    {
+      "id": "mahesh",
+      "description": "Portrait of a faculty coordinator",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/faculty/mahesh%20sir.jpeg",
+      "imageHint": "teacher smiling"
+    },
+    {
+      "id": "jag",
+      "description": "Portrait of a faculty coordinator",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/faculty/jag%20mohan%20sir.jpg",
+      "imageHint": "teacher smiling"
+    },
+    {
+      "id": "hiten",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/hiten.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "harsh",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/harsh.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "anushka",
+      "description": "Portrait of a core team member",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Teams/anushka.jpg",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "kushi",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/kushi.jpg",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "chirag",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/chirag.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "suyash",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/suyash.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "nitish",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/nitish.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "ayush",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/ayush.jpg",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "jay",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/jay.png",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos",
+      "imageHint": "event audience"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/ml%20workshop/ml%20d1.jpg",
+      "imageHint": "team celebration"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random3.JPG",
+      "imageHint": "coding collaboration"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/last%20tenure%20happy%20face.JPG",
+      "imageHint": "presentation stage"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/last%20tenure.JPG",
+      "imageHint": "students learning"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random1.JPG",
+      "imageHint": "group discussion"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random2.JPG",
+      "imageHint": "award ceremony"
+    },
+    {
+      "id": "gallery-8",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/CDAC%20visit'25/IMG-20251113-WA0008.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-9",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/ml%20workshop/ml%20d2.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-10",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/Poster%20MAking%20Competition/happy%20face.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-11",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/Poster%20MAking%20Competition/IMG-20241022-WA0047.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-12",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Events/AI%20x%20AR%20workshop/IMG_0651.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-13",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/drone.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-14",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random4.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-15",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random5.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-16",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random6.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-17",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random7jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-18",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random8.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "gallery-19",
+      "description": "Photo from a society event",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/Gallery/random9.jpg",
+      "imageHint": "networking event"
+    },
+    {
+      "id": "aditya",
+      "description": "Portrait of a happy student",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/reviewers/aditya.jpg",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "aditi",
+      "description": "Portrait of a smiling student",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/reviewers/aditi.jpg",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "adarsh",
+      "description": "Portrait of a professional person",
+      "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos/main/reviewers/adarsh.jpg",
+      "imageHint": "man portrait"
+    }
+  ]
+}

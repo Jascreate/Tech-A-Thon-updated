@@ -1,0 +1,43 @@
+export type NavItem = {
+  title: string;
+  href: string;
+  disabled?: boolean;
+};
+
+export type EventType = "Competition" | "Seminar" | "Workshop" | "Visit";
+
+export type Event = {
+  title: string;
+  date: string;
+  description: string;
+  type: EventType;
+  image: string;
+};
+
+export type TeamRole = "Faculty Coordinator" | "Core Team" | "Member";
+
+export type TeamMember = {
+  name: string;
+  role: TeamRole;
+  position: string;
+  bio: string;
+  image: string;
+  email?: string;
+  linkedin?: string;
+};
+
+
+export type Review = {
+  name: string;
+  position: string;
+  review: string;
+  rating: number;
+  image: string;
+};
+
+export type Quote = {
+  quote: string;
+  author: string;
+};
+
+    
