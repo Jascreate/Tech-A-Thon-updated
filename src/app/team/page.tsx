@@ -24,7 +24,7 @@ const TeamCard = ({ member }: { member: TeamMember }) => {
               src={memberImage.imageUrl}
               alt={member.name}
               fill
-              className="object-cover transition-transform duration-300 group-hover:scale-105"
+               className={`object-cover transition-transform duration-300 group-hover:scale-105 ${member.name === "Aditya " ? "object-top" : "object-center"}`}
               data-ai-hint={memberImage.imageHint}
             />
           )}
@@ -44,7 +44,9 @@ const TeamCard = ({ member }: { member: TeamMember }) => {
         <div className="flex flex-wrap gap-3 pt-2">
           {member.email && (
             <Link
-              href={`mailto:${member.email}`}
+              href={`https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(member.email)}`}
+              target="_blank"
+              rel="noreferrer"
               className="inline-flex items-center gap-2 rounded-md bg-secondary px-3 py-2 text-sm font-medium hover:bg-primary/20 transition-colors"
             >
               <Mail className="h-4 w-4 text-primary" />

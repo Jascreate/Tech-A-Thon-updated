@@ -120,8 +120,8 @@ export const team: TeamMember[] = [
     position: "Secretary",
     bio: "As Secretary, she ensures smooth events and consistently supports Tech-A-Thon with her dedication and energy.",
     image: "anushka",
-    email: "",
-    linkedin: "",
+    email: "anushka.poswal10@gmail.com",
+    linkedin: "https://www.linkedin.com/in/anushka-poswal-4b2216399?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   {
     name: "Kushi",
@@ -183,7 +183,7 @@ export const team: TeamMember[] = [
     position: "Coordinator Head",
     bio: "As Coordinator Head of Tech-A-Thon, he oversees team coordination, manages technical initiatives, and ensures the smooth execution of innovative projects through effective collaboration and leadership.",
     image: "jay",
-    email: "=mr.dabasjay@gmail.com",
+    email: "mr.dabasjay@gmail.com",
     linkedin: "https://www.linkedin.com/in/jay-dabas-84860340b/",
   },
 ];

@@ -127,6 +127,13 @@
       "imageHint": "man portrait"
     },
     {
+      "id": "aditya1",
+      "description": "Portrait of a core team member",
+      "imageUrl": "/images/aditya1.jpg",
+      
+      "imageHint": "man portrait"
+    },
+    {
       "id": "gallery-1",
       "description": "Photo from a society event",
       "imageUrl": "https://raw.githubusercontent.com/AI-ash/Tech-A-Thon-Photos",

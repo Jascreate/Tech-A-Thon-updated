@@ -11,26 +11,34 @@ import { Badge } from "@/components/ui/badge";
 import { AnimatedSection } from "@/components/animated-section";
 import InteractiveBackground from "@/components/interactive-background";
 
-const keywords = [
-  "AI", "Web Dev", "Coding", "Hackathons", "Cybersecurity",
-  "React", "Python", "Node.js", "Cloud", "DevOps",
-  "Machine Learning", "Data Science", "UI/UX", "Blockchain"
-];
+function AnnouncementBanner() {
+  const announcements = [
+    "TECH-A-THON UPDATE",
+    "Explore upcoming events",
+    "Think. Build. Evolve.",
+    "Stay tuned for announcements",
+  ];
 
-function ScrollingKeywords() {
   return (
-    <div className="relative w-full max-w-4xl mx-auto overflow-hidden">
-      <div className="absolute inset-0 z-10 bg-gradient-to-r from-background via-transparent to-background" />
-      <div className="flex animate-scroll">
-        {[...keywords, ...keywords].map((keyword, index) => (
-          <span
-            key={index}
-            className="mx-4 text-sm font-mono tracking-widest text-muted-foreground whitespace-nowrap"
-          >
-            {keyword}
-          </span>
-        ))}
-      </div>
+    <div className="announcement-banner" aria-label="Tech-A-Thon announcements">
+      <Link href="/events" className="announcement-banner__link" aria-label="Explore Tech-A-Thon events">
+        <span className="announcement-banner__track">
+          {[0, 1].map((copy) => (
+            <span className="announcement-banner__group" key={copy} aria-hidden={copy === 1}>
+              {announcements.map((announcement, index) => (
+                <span className="announcement-banner__item" key={`${copy}-${announcement}`}>
+                  {index === 0 ? (
+                    <span className="announcement-banner__pill">{announcement}</span>
+                  ) : (
+                    announcement
+                  )}
+                  <span className="announcement-banner__star" aria-hidden="true">✦</span>
+                </span>
+              ))}
+            </span>
+          ))}
+        </span>
+      </Link>
     </div>
   );
 }
@@ -44,7 +52,7 @@ const Home = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-[calc(100vh-4rem)]">
-      <section className="relative w-full py-20 md:py-32 lg:py-40 overflow-hidden">
+      <section className="relative w-full pt-20 pb-12 md:pt-32 md:pb-16 lg:pt-40 lg:pb-20 overflow-hidden">
         <InteractiveBackground />
         <div className="container px-4 md:px-6 z-10 relative">
           <div className="flex flex-col items-center space-y-6 text-center">
@@ -69,11 +77,9 @@ const Home = () => {
         </div>
       </section>
 
-      <section className="w-full pb-20 md:pb-32">
-        <div className="container px-4 md:px-6">
-          <ScrollingKeywords />
-        </div>
-      </section>
+      <div className="w-full mb-12 md:mb-16 lg:mb-20">
+        <AnnouncementBanner />
+      </div>
       
       <AnimatedSection className="w-full pb-20 md:pb-32">
         <div className="container px-4 md:px-6">
